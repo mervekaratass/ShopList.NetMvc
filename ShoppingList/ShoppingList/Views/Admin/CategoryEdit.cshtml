@@ -1,0 +1,35 @@
+﻿@model EntityLayer.Entities.Category
+<div class="br-wrapper">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <form class="forms-sample" asp-action="CategoryEdit" method="post" autocomplete="off">
+                    <div class="form-group">
+                        <label for="exampleInputName1" asp-for="CategoryName">Kategori Düzenleme Formu</label>
+                        <input type="text" class="form-control" asp-for="CategoryName" placeholder="Kategori adı" value="@ViewBag.category">
+                        <span asp-validation-for="CategoryName" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Kaydet</button>
+                    <br />
+
+                    <div>
+                        @{
+                            if (ViewData["AdCategoryEdit"] != null)
+                            {
+                                <div class="text-danger">Kategori başarılı bir şekilde düzenlendi.</div>
+
+                            }
+                            else if (ViewData["NotAdCategoryEdit"] != null)
+                            {
+
+                                <div class="text-danger">Aynı isimde kategori mevcut.</div>
+                            }
+
+                        }
+                        <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+                        </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

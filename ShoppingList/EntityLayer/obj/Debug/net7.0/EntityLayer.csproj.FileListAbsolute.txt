@@ -1,0 +1,84 @@
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Merve Karataş\Desktop\techcareer\ShoppingList\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Merve Karataş\Desktop\tech yedek\ShoppingList\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Merve Karataş\Desktop\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Merve Karataş\Desktop\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Merve Karataş\Desktop\techyedek7-main\techyedek3-main\techyedek-main\ShoppingList\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Merve Karataş\Desktop\techyedek8-main\ShoppingList\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll

@@ -1,0 +1,62 @@
+﻿@model UserListViewModel
+<div class="row">
+        <div class="col-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <div class="template-demo">
+                    <a asp-controller="User" asp-action="ListPost" asp-route-id="@Model.UserID"><button class="btn btn-info btn-lg btn-block">Liste ekle</button></a>
+                    </div>
+                </div>
+            </div>
+            </div>
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">LİSTELERİM</h4>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                   LİSTE ADI
+                                </th>
+                                <th>
+                                    
+                                </th>
+                                <th>
+                                    
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                           
+                            @foreach(var item in Model.ListViewModel){
+                            <tr>
+                                <td class="py-1">
+                                   @item.ListName
+                                </td>
+                                <td>
+                                        <a asp-controller="User" asp-action="ListDetail" asp-route-id="@item.ListID"><button class="btn btn-primary">Listeye Git</button></a>
+                                </td>
+                                <td>
+                                        <a asp-controller="User" asp-action="ListDelete" asp-route-id="@item.ListID"><button class="btn btn-danger">Sil</button></a>
+                                </td>
+                            </tr>
+                            }
+                           
+                        </tbody>
+
+                        
+                    </table>
+                    </br>
+                    @{
+                        if (Model.ListViewModel.Count == 0)
+                        {
+                            <div><p class="text-danger">Henüz hiç alışveriş listeniz yok</p></div>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

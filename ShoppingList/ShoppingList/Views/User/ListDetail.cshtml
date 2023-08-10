@@ -1,0 +1,90 @@
+﻿
+@model List<ListDetailViewModel>
+<link href="~/css/pagedlist.css" rel="stylesheet" />
+<div class="row">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <div class="template-demo">
+                    @{
+                        int listid = (int)TempData["ListId"];
+                    }
+                    <a asp-controller="User" asp-action="ProductAdd" asp-route-id=@listid><button class="btn btn-info btn-lg btn-block">Ürün Ekle</button></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">@ViewBag.ListName</h4>
+                <div class="table-responsive">                   
+                    <table class="table table-striped" >
+                        <thead>
+                            <tr>
+                                <th>
+                                    Ürün Adı
+                                </th>
+                                <th>
+                                    Ürün Görseli
+                                </th>
+                                <th>
+                                   
+                                </th>
+                                <th>
+
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                if (ViewData["NoProduct"] != null)
+                                {
+                                    <div><p class="text-danger">Henüz hiç ürününüz  yok</p></div>
+                                }
+                                
+                            }
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td class="py-1">
+                                        @item.ProductName
+                                    </td>
+                                    <td class="py-1">
+                                        <img src="~/ProductImage/@item.Image" alt="product" />
+                                    </td>
+                                     <td>      
+                                          
+                                            <a asp-controller="User" asp-action="EditDescription" asp-route-id="@listid" asp-route-name="@item.ProductName" ><button class="btn btn-primary">Ürün Detayları</button></a>                
+                                    </td>
+                                    <td>
+                                        
+                                        <a asp-controller="User" asp-action="ProductDelete" asp-route-id="@listid" asp-route-name="@item.ProductName"  ><button class="btn btn-danger">Kaldır</button></a>
+                                    </td>
+                                    
+                                </tr>
+                            }
+                            <tr>
+
+                     
+                          
+                        </tbody>
+                    
+               
+                    </table>
+                 <br />
+                    
+                 <br />
+                    <br />
+                    
+                        <div style="text-align:center;">
+                        <a asp-action="Shop" asp-route-id="@listid">
+                            <button class="btn btn-success">Alişverişe Çıkıyorum</button>
+                        </a>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
