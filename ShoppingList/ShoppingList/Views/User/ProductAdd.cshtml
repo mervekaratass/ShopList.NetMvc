@@ -1,0 +1,44 @@
+﻿@model ProductViewModel
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Ürün Ekleme Formu</h4>
+            <form class="forms-sample" asp-action="ProductAdd" method="post" autocomplete="off">
+                <div class="form-group">
+                    <label for="exampleSelectGender">Ürünler</label>
+                    <select class="form-control"  asp-for="ProductName">
+                        @foreach(var item in ViewBag.Products){
+                        <option value="@item">@item</option>}
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="exampleTextarea1">Açıklama</label>
+                    <textarea class="form-control" id="exampleTextarea1" rows="4" asp-for="ProductDescription"></textarea>
+                </div>
+                <div class="text-danger" asp-validation-summary="ModelOnly">
+                     </div>
+                <button type="submit" class="btn btn-primary mr-2">Ekle</button>
+                <br />
+                <div>
+                    @{
+                        if (ViewData["ProductAdd"] != null)
+                        {
+                            <div class="text-danger">Ürün listeye eklendi.</div>
+
+                        }
+                        else if (ViewData["NotProduct"] != null)
+                        {
+
+                            <div class="text-danger">Listenizde bu ürün mevcut.</div>
+                        }
+
+                    }
+                </div>
+
+                <br />
+                 
+            </form>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,72 @@
+﻿@model List<GoShopViewModel>
+<form id="productForm" method="post" asp-action="Shop">
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">@ViewBag.ListName</h4>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    Ürün Adı
+                                </th>
+                                <th>
+                                    Ürün Görseli
+                                </th>
+                                <th>
+                                    Ürün Açıklaması
+                                </th>
+                                <th>
+                                    Aldım/Almadım
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                if (ViewData["NoProduct"] != null)
+                                {
+                                    <div><p class="text-danger">Henüz hiç ürününüz  yok</p></div>
+                                }
+                            }
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td class="py-1">
+                                        @item.ProductName
+                                    </td>
+                                    <td class="py-1">
+                                        <img src="~/ProductImage/@item.Image" alt="product" />
+                                    </td>
+                                    <td class="py-1">
+                                        <div class="product-description">
+                                            @item.Description
+                                        </div>
+                                    </td>
+                                    <td>
+                                       <div class="form-check form-check-info">
+                                          <label class="form-check-label">
+                                          <input type="checkbox" class="form-check-input" name="selectedProducts" value="@item.ProductID">
+                                          </label>
+                                       </div>
+                                    </td>
+
+                                </tr>
+                            }
+                           
+                        </tbody>
+
+
+                    </table>
+                    <br />
+                    <br />
+                    <div style="text-align:center;">
+                         <button type="submit" class="btn btn-success">Alışverişi Tamamla</button>
+                     </div>
+   
+                </div>
+            </div>
+        </div>
+    </div>
+    </form>
+
