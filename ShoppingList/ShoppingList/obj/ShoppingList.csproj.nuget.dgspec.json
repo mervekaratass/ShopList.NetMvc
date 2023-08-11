@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\ShoppingList\\ShoppingList.csproj": {}
+    "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\ShoppingList\\ShoppingList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\Merve Karataş\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\ShoppingList\\ShoppingList.csproj": {
+    "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\ShoppingList\\ShoppingList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\ShoppingList\\ShoppingList.csproj",
+        "projectUniqueName": "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\ShoppingList\\ShoppingList.csproj",
         "projectName": "ShoppingList",
-        "projectPath": "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\ShoppingList\\ShoppingList.csproj",
+        "projectPath": "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\ShoppingList\\ShoppingList.csproj",
         "packagesPath": "C:\\Users\\Merve Karataş\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\ShoppingList\\obj\\",
+        "outputPath": "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\ShoppingList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -112,8 +112,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }

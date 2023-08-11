@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qrTWMvl2j/S3qNV3Ww2SnJGul3G9sVwifFt3sW/RFaYnphv4qi+ol/LX0xdJf4RXgBcrGKrIP8TtEqcdAV1zFQ==",
+  "dgSpecHash": "tbZAspPCAGoX+m9BBlPqI5dYnD2FGxH+nD5a6TKBTuCwe+0bbtMFWGmx9W4fKHhQhhimLZ41VAE9WF/K13Epzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Merve Karataş\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Merve Karataş\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -173,7 +173,7 @@ namespace ShoppingList.Controllers
         [HttpPost]
         public IActionResult ProductAdd(ProductAddViewModel model)
         {
-          
+
             if (ModelState.IsValid)
             {
                 Product product = context.Products.Where(x => x.ProductName == model.ProductName).SingleOrDefault();
@@ -189,30 +189,34 @@ namespace ShoppingList.Controllers
                         var stream = new FileStream(location, FileMode.Create);
                         model.Image.CopyTo(stream);
                         product.Image = newimagename;
+
+
+                        product.ProductName = model.ProductName;
+                        product.CategoryID = context.Categories
+                            .Where(x => x.CategoryName == model.CategoryName).Select(x => x.CategoryID).SingleOrDefault();
+
+                        ViewData["ProductAdd"] = "true";
+                        context.Products.Add(product);
+                        context.SaveChanges();
+                        Get();
+                        return View();
                     }
-                    else { product.Image = null; }
-                    product.ProductName = model.ProductName;
-                    product.CategoryID = context.Categories
-                        .Where(x => x.CategoryName == model.CategoryName).Select(x => x.CategoryID).SingleOrDefault();
-                    
-                    ViewData["ProductAdd"] = "true";
-                    context.Products.Add(product);
-                    context.SaveChanges();
-
-
-                    
+                    else
+                    {
+                        ViewData["Image"] = "true";
+                        Get();
+                        return View();
+                    }
                 }
                 else
                 {
                     ViewData["NotProductAdd"] = "true";
                     ModelState.Remove("ProductName");
                 }
-                Get();
-                return View();
-
             }
             Get();
             return View();
+
         }
         public IActionResult ProductDelete(int id)
         {

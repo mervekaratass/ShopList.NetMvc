@@ -3578,11 +3578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\Merve Karataş\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Merve Karataş\\Desktop\\techyedek8-main\\ShoppingList\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\Merve Karataş\\Documents\\GitHub\\ShopList.NetMvc\\ShoppingList\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
