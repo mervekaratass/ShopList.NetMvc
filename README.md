@@ -1,4 +1,4 @@
-# ShopList📝
+# Alışveriş Listesi📝
 Bu proje Techcareer ile gerçekleştirilen Techcareer . Net Backend Bootcamp 'inin final case projesidir. 
 
 📫Bizden istenilenlere genel olarak  bir bakalım.
